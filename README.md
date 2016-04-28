@@ -1,2 +1,2 @@
-# SrvLibs
-Common libs for SDAIA server nodes.
+# libsdaiasrv
+Common lib for SDAIA server nodes.
